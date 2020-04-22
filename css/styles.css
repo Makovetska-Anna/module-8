@@ -280,11 +280,12 @@ margin: 0 auto;
 	.container{
 		width: 300px;
 		margin: 0 auto;
+		height: 100%;
 	}
 
 	.box{
 		background: no-repeat url(https://i.ibb.co/LSW5tRb/back.jpg);
-		height: 540px;
+		height: 574px;
 		background-size: cover;
 		
 	}
@@ -331,6 +332,7 @@ margin: 0 auto;
   .container{
 		width: 768px;
 		margin: 0 auto;
+		height: 100%;
 	}
 
 
