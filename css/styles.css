@@ -398,6 +398,7 @@ margin: 0 auto;
 	.container{
 		width: 940px;
 		margin: 0 auto;
+		height: 100%;
 	}
 	.box{
 		background: no-repeat url(https://i.ibb.co/fD21Cfw/10.png);
